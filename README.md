@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/wH24s87)
+![alt text](https://i.imgur.com/wH24s87.png)
 
 # Sieta
 [Work in progress project]
