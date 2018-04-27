@@ -1,3 +1,5 @@
+![alt text](https://imgur.com/wH24s87)
+
 # Sieta
 [Work in progress project]
 
